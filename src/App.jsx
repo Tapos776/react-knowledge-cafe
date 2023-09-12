@@ -14,11 +14,12 @@ const handelBookMark =(blog)=>{
   setBookmarks(newBookMarks)
 }
 
-const handelTime =time =>{
+const handelTime =(id,time) =>{
   const {reading_time_minutes}=time
   const newTime = readingTime + reading_time_minutes;
   setReadingTime(newTime);
-  
+  const removeBookMark =bookmarks.filter(bookmark => bookmark.id !==id);
+  setBookmarks(removeBookMark);
 }
 
 
