@@ -1,0 +1,105 @@
+[
+    {
+      "id": "1",
+      "cover_image": "https://i.ibb.co/z8gG7DP/free-Pik.jpg",
+      "other_images":"https://i.ibb.co/rstj8ZV/member1.png",
+      "title": "Sample Blog Post 1",
+      "post_date": "2023-09-12",
+      "reading_time_minutes": 10,
+      "author": "John Doe",
+      "hashtags": ["technology", "coding"]
+    },
+    {
+      "id": "2",
+      "cover_image": " https://i.ibb.co/BLf2gTc/pik-2.jpg",
+      "other_images":"https://i.ibb.co/ysjDTwJ/member2.png",
+      "title": "Sample Blog Post 2",
+      "post_date": "2023-09-13",
+      "reading_time_minutes": 8,
+      "author": "Jane Smith",
+      "hashtags": ["travel", "adventure"]
+    },
+    {
+      "id": "3",
+      "cover_image": "https://i.ibb.co/9Z5bS1M/Pik-3.jpg",
+      "other_images":"https://i.ibb.co/Wk86ffd/member3.png",
+      "title": "Sample Blog Post 3",
+      "post_date": "2023-09-14",
+      "reading_time_minutes": 12,
+      "author": "Sam Brown",
+      "hashtags": ["food", "recipes"]
+    },
+    {
+      "id": "4",
+      "cover_image": "https://i.ibb.co/tHrDs4Q/Pic-4.jpg",
+      "other_images": "https://i.ibb.co/SnHbjZB/member4.png",
+      "title": "Sample Blog Post 4",
+      "post_date": "2023-09-15",
+      "reading_time_minutes": 15,
+      "author": "Emily Johnson",
+      "hashtags": ["health", "fitness"]
+    },
+    {
+      "id": "5",
+      "cover_image": "https://i.ibb.co/d4HZtVy/Pic-5.jpg",
+      "other_images":"https://i.ibb.co/rstj8ZV/member1.png",
+      "title": "Sample Blog Post 5",
+      "post_date": "2023-09-16",
+      "reading_time_minutes": 7,
+      "author": "Michael Wilson",
+      "hashtags": ["science", "research"]
+    },
+    {
+      "id": "6",
+      "cover_image": " https://i.ibb.co/K0dWkyZ/Pic-6.jpg",
+      "other_images":"https://i.ibb.co/ysjDTwJ/member2.png",
+      "title": "Sample Blog Post 6",
+      "post_date": "2023-09-17",
+      "reading_time_minutes": 9,
+      "author": "Lisa Anderson",
+      "hashtags": ["music", "concerts"]
+    },
+    {
+      "id": "7",
+      "cover_image": "https://i.ibb.co/K0dWkyZ/Pic-6.jpg",
+      "other_images":"https://i.ibb.co/SnHbjZB/member4.png",
+      "title": "Sample Blog Post 7",
+      "post_date": "2023-09-18",
+      "reading_time_minutes": 11,
+      "author": "Daniel White",
+      "hashtags": ["movies", "reviews"]
+    },
+    {
+      "id": "8",
+      "cover_image": "https://i.ibb.co/z8gG7DP/free-Pik.jpg",
+      "other_images":"https://i.ibb.co/Wk86ffd/member3.png",
+      "title": "Sample Blog Post 8",
+      "post_date": "2023-09-19",
+      "reading_time_minutes": 14,
+      "author": "Olivia Garcia",
+      "hashtags": ["books", "literature"]
+    },
+    {
+      "id": "9",
+      "cover_image": "https://i.ibb.co/9Z5bS1M/Pik-3.jpg",
+      "other_images":"https://i.ibb.co/ysjDTwJ/member2.png",
+      "title": "Sample Blog Post 9",
+      "post_date": "2023-09-20",
+      "reading_time_minutes": 6,
+      "author": "William Martin",
+      "hashtags": ["fashion", "style"]
+    },
+    {
+      "id": "10",
+      "cover_image": "https://i.ibb.co/BLf2gTc/pik-2.jpg",
+      "other_images":"https://i.ibb.co/rstj8ZV/member1.png",
+      "title": "Sample Blog Post 10",
+      "post_date": "2023-09-21",
+      "reading_time_minutes": 13,
+      "author": "Sophia Lee",
+      "hashtags": ["art", "creativity"]
+    }
+  ]
+  
+
+
